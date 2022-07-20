@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(255, 223, 200);
+}
+
+h1 {
+    padding: 2% 0% 2% 0%;
+    text-align: center;
+    background-color:rgb(224, 196, 153)
+}
+
+.navbar {
+    background-color: rgb(77, 52, 15);
+}
+
+h2 {
+    text-align: center;
+    padding: 1%;
+}
+
+.color1 {
+    background-color: rgb(196, 129, 53);
+    padding: 0.8%;
+}
+
+.color2 {
+    background-color: rgb(240, 139, 8);
+    padding: 0.8%;
+}
+
+#portada {
+    max-width: 100%;
+    padding: 1%;
+}
+
+.boton {
+    padding: 4px 0px 10px 0px
+}
+
+p {
+    padding: 1% 5% 1% 5%
+}
+
+footer {
+    text-align: center;
+    color:aliceblue;
+    background-color: #4D340F;
+    margin-top: 4%;
+}
+
+
+
+.iconos i {
+    padding: 0% 2% 2.5% 0%
+}
+
+.iconos a {
+    color: aliceblue;
+}
