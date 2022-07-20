@@ -48,11 +48,14 @@ footer {
 }
 
 
-
 .iconos i {
     padding: 0% 2% 2.5% 0%
 }
 
 .iconos a {
     color: aliceblue;
+}
+
+.row {
+    margin:0;
 }
